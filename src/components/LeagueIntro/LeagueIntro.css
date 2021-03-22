@@ -1,0 +1,43 @@
+.introCard{
+    margin-top: 70px;
+}
+.GridInfo{
+    background-color: tomato ;
+    width: 80% !important;
+    margin:20px auto !important;
+    border-radius: 10px;
+}
+.ItemContainer {
+    height: 200px !important;
+    background: transparent !important;
+    text-align: left;
+    
+}
+.ItemContainer img{
+    height: 100% !important;
+    padding: 0;
+    width: 100%;
+}
+.GridItem{
+    box-shadow: none !important;
+}
+
+.MuiPaper-elevation1{
+    box-shadow: unset !important;
+}
+.introCard h3{
+  font-size: 20;
+  font-style: italic;
+}
+
+.introCard p{
+    margin-top: 0;
+    margin-bottom: 3px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.introCard svg{
+    font-size: 16px;
+    font-weight: 600;
+}

@@ -1,0 +1,11 @@
+.copyright{
+    padding: 30px;
+    color: white;
+    background-color: #2A2139;
+}
+
+.copyright a{
+    color: white;
+    font-style: italic;
+    font-size: 16px;
+}
